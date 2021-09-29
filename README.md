@@ -1,9 +1,11 @@
 # Archaeometry-Iron-Eisenberg
 
 Master Thesis in Archaeometry by Tübingen University 
+
 Title: Iron production of Roman Vicus of Eisenberg: provenance and thecnology. 
 
 Abstract 
+
 The Roman Vicus of Eisenberg, localized in Pfalz, Germany, and founded approximately in the 20 BC, is well known for its iron smelting remains. In the last systematic excavations (1995-2006), iron ores, slags, blooms and final iron objects were found inside the houses of the Vicus. Part of these remains (ores, slag and a bloom) were analyzed for the first time with archaeometallurgical methods by (Mittelstädt (2019), combining a metallographic Optical Microscopy (OP), a Scanning Electron Microscope - Energy Dispersive Spectrometry (SEM-EDS), a mineralogical analysis with X-ray Diffractometry (XRD), and a chemical analysis with a Wavelength Dispersive X-ray Fluorescence Spectroscopy (WDXF) with the aim of identifying their context in the archaeological record (primary or secondary), the metallurgical process of their formation (smelting: oven slag, flow slags and plate slags; and smiting slags) and the possible ores sources.
 
 In this thesis we continued with the analysis of new ores from the possible past sources (XRD), the metallographic analysis of the iron objects (OP), and the revision of the previously analyzed material, using for the first time the slag chemistry model approach. This approach proposes that the chemistry of the slag and the slag inclusions present in iron objects depends on the ore chemistry and the alterations and enrichment caused during the smelting and the smithing processes. This approach requires analyzing main oxide compounds (SEM-EDS and WXRDF) and  trace elements. For this last reason, the material was chemically analyzed using a sensitive microanalytical technique, Laser Ablation - Inductively Coupled Plasma - Mass Spectrometry (LA-ICP-MS), on the ores, slags, and slags inclusions in iron objects. 
@@ -13,6 +15,7 @@ and processes. ).
 Incompatible trace elements, like rare earth and radioactive elements, confirm the common origin of the iron production, and allow us to discriminate the material sources, pointing to two ores deposits. In conclusion, the combination of this multidisciplinary approach makes it possible to define a possible chemical fingerprint for the Eisenberg iron production and their compatible ores sources.
 
 -Mittelstädt, K. (2019). Mehr als Rost und Eisen Materialanalytik an metallurgischen Funden aus dem Vicus von Eisenberg. Master’s thesis, Universität Tübingen
+
 
 About the repostory
 
